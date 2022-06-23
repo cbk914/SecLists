@@ -2,6 +2,7 @@
 user:1
 root:admin
 root:root
+root
 admin:admin
 admin:root
 admin:bw.com
@@ -9,4 +10,6 @@ admin:bw.com
 root:blacksheepwall
 root:innot1t2
 root:t1t2t3a5
-
+root:root@
+ethos:live
+root:live
