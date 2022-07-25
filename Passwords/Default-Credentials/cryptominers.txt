@@ -1,12 +1,19 @@
-# Most common default passwords on ASIC mining devices on several services (HTTP, SSH, telnet...)
+# Most common default passwords on ASIC crypto mining devices on several services (HTTP, SSH, telnet...)
 user:1
 root:admin
 root:root
+root
 admin:admin
 admin:root
 admin:bw.com
 :12345678
+:123456789
 root:blacksheepwall
 root:innot1t2
 root:t1t2t3a5
-
+root:root@
+ethos:live
+root:live
+root:envision
+baikal:baikal
+root:bwcon

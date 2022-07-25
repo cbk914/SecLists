@@ -1,0 +1,6 @@
+admin
+admin:
+admin:admin
+root
+root:
+root:root
