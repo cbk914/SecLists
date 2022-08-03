@@ -57,6 +57,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [Cook](https://github.com/giteshnxtlvl/cook)
 
 - - -
 

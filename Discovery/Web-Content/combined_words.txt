@@ -492,6 +492,7 @@ act
 action
 actions
 activate
+activation
 active
 activeCollab
 activex
@@ -4941,7 +4942,6 @@ sorry
 .7
 111
 76
-activation
 dmca
 59
 warranty
@@ -39900,6 +39900,10 @@ Suche
 TermsOfUse
 Tests
 WP
+.hg
+.bzr
+._darcs
+BitKeeper
 AR
 About-Us
 Australia
